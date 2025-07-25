@@ -1,6 +1,6 @@
 {
     "name": "Tset module trigger",
-    "version": "15.0.1.0.0",
+    "version": "15.0.1.0.1",
     "category": "Human Resources",
     "website": "https://github.com/aginix/odoo-15-module-test",
     "author": "nopparuts, Aginix Technologies",
