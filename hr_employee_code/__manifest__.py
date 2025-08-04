@@ -1,7 +1,7 @@
 {
     "name": "HR Employee Code",
     "version": "16.0.1.1.1",
-    "description": "HR Employee Code",
+    "description": "HR Employee Codes",
     "summary": "HR Employee Code",
     "website": "https://github.com/aginix/kmitl-odoo",
     "author": "Nopparut, Aginix Technology Co.,Ltd.",
